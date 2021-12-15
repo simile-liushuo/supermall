@@ -1,5 +1,5 @@
 {
-  "name": "购物街",
+  "name": "supermall",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "axios": "^0.24.0",
+    "better-scroll": "^2.4.2",
     "core-js": "^3.6.5",
     "vue": "^2.6.11",
     "vue-router": "^3.5.3"
